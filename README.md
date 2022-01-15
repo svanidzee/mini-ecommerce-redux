@@ -1,7 +1,5 @@
 # ecommerce-shop-redux
 
-### live preview
-- https://doubtful-ducks.surge.sh
 
 
 ### Stack:
